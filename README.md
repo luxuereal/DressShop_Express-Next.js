@@ -22,7 +22,7 @@
 ### Clone Repository
 
 ```
-git clone https://github.com/jrussumbrella/dress-shop-web.git
+git clone https://github.com/deverabit/DressShop_Express-Next.js.git
 ```
 
 ### Client Installation
